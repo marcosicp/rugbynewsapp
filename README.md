@@ -7,8 +7,17 @@ Firebase<br>
 Twitter API
 
 ## ScreenShots
-<img width="100px" src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura.PNG" />
-<img width="100px" src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura3.PNG" />
-<img width="100px" src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura2.PNG" />
-
-
+<div><table><tbody><tr>
+  <td>
+  <a href="#" rel="nofollow">
+    <img src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura.PNG" width="200" data-canonical-src="https://i.imgur.com/1Xdsp92.gif" style="max-width:100%;"></a>
+</td>
+<td>
+  <a target="_blank" rel="noopener noreferrer" href="#">
+    <img src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura2.PNG" width="400" style="max-width:100%;"></a>
+</td>
+  <td>
+    <a target="_blank" rel="noopener noreferrer" href="#">
+      <img src="https://github.com/marcosicp/rugbynewsapp/blob/master/assets/screenshots/Captura3.PNG" width="200" style="max-width:100%;"></a>
+</td>
+</tr></tbody></table></div>
